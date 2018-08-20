@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/news_title">
+        <menu>
+            <item
+                android:id="@+id/bbc"
+                android:icon="@drawable/baseline_label_black_24dp"
+                android:title="@string/bbc" />
+            <item
+                android:id="@+id/newyorktimes"
+                android:icon="@drawable/baseline_label_black_24dp"
+                android:title="@string/TNYT" />
+            <item
+                android:id="@+id/cnn"
+                android:icon="@drawable/baseline_label_black_24dp"
+                android:title="@string/cnn" />
+        </menu>
+    </item>
+
+    <item android:title="@string/tech_title">
+        <menu>
+            <item
+                android:id="@+id/engadget"
+                android:icon="@drawable/baseline_label_black_24dp"
+                android:title="@string/engadget" />
+            <item
+                android:id="@+id/theverge"
+                android:icon="@drawable/baseline_label_black_24dp"
+                android:title="@string/theverge" />
+            <item
+                android:id="@+id/techradar"
+                android:icon="@drawable/baseline_label_black_24dp"
+                android:title="@string/techradar" />
+        </menu>
+    </item>
+
+    <group android:id="@+id/group_menu">
+        <item
+            android:id="@+id/bookmarked"
+            android:icon="@drawable/baseline_label_black_24dp"
+            android:title="@string/bookmarked" />
+
+    </group>
+</menu>

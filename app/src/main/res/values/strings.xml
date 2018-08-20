@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">News and Tech</string>
+
+    <!-- card and detail views -->
+    <string name="article_source"> %1$s </string>
+    <string name="article_detail_source_placeholder"> BBC News</string>
+    <string name="published_date"> %1$s </string>
+    <string name="published_at_tools_text"> 1970–01–01</string>
+    <string name="widget_image_description">widget article image</string>
+    <string name="article_title_description">Title of the Article</string>
+    <string name="news_image_description">article image</string>
+    <string name="article_summary">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</string>
+    <string name="connection_message">Something went wrong, \nno internet connection. \nPlease come back later…</string>
+    <string name="server_error_message">Something went wrong, \nplease try again later</string>
+    <string name="bookmark_button_description">bookmark article</string>
+    <string name="browser_button_description">open in browser</string>
+    <string name="fab_description">share article</string>
+
+    <!-- navigation drawer -->
+    <string name="nav_header_subtitle">Have a break</string>
+    <string name="news_title">News</string>
+    <string name="cnn">CNN</string>
+    <string name="TNYT">The New York Times</string>
+    <string name="bbc">BBC News</string>
+    <string name="tech_title">Tech</string>
+    <string name="engadget">Engadget</string>
+    <string name="techradar">TechRadar</string>
+    <string name="theverge">The Verge</string>
+    <string name="bookmarked">Bookmarked</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_description">navigation drawer header image</string>
+
+   <!-- sources -->
+    <string name="source_cnn">cnn</string>
+    <string name="source_tnyt">the-new-york-times</string>
+    <string name="source_bbc">bbc-news</string>
+    <string name="source_engadget">engadget</string>
+    <string name="source_techradar">techradar</string>
+    <string name="source_theverge">the-verge</string>
+
+    <!-- bookmark -->
+    <string name="bookmarked_article">Article bookmarked</string>
+    <string name="remove_bookmarked">Removed from bookmarked</string>
+    <string name="no_bookmarked_articles">Nothing bookmarked yet…</string>
+
+    <!-- admob -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>
